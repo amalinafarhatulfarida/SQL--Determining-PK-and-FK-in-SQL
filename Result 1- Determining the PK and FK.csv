@@ -1,0 +1,2 @@
+﻿FK_SalesOrderHeader_Address_ShipTo_AddressID,SalesOrderHeader,ShipToAddressID,Address,AddressID
+FK_SalesOrderHeader_Address_BillTo_AddressID,SalesOrderHeader,BillToAddressID,Address,AddressID
