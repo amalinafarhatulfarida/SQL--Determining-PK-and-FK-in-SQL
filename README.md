@@ -8,7 +8,7 @@ This SQL query is designed to explore the foreign key relationships between the 
 - Identifies the referenced table (`Address`) and the corresponding primary key column (`AddressID`).
 
 ### **How to Use**
-Run the query in SQL Server Management Studio (SSMS) to explore relationships in the AdventureWorks database.
+Run the query in SQL Server Management Studio (SSMS) to explore relationships in the AdventureWorks database. Look at the code breakdown to understand more.
 
 ### **Sample Output**
 | ForeignKeyName     | ParentTable        | ParentColumn       | ReferencedTable | ReferencedColumn |
